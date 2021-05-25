@@ -158,8 +158,19 @@ a:hover{
         margin: 0;
         font-size: 0;
     }
+    .link{
+        display: flex;
+        position: relative;
+        top: 3620px;
+        left: 177px;
+        width: 908px;
     }
-@media screen and (min-width: 1166px) {
+    .fot21 .fot22 .fot23{
+        position: relative;
+        margin: 80px;
+    }
+    }
+@media screen and (min-width: 1250px) {
     nav{
         
         background-color: #B9AFA8;
@@ -312,7 +323,185 @@ a:hover{
         margin: 0;
         font-size: 0;
     }
+    .link{
+        display: flex;
+        position: relative;
+        top: 3135px;
+        left: 81px;
+        width: 908px;
+        
     }
+    .fot21 .fot22 .fot23{
+        position: relative;
+        margin: 80px;
+    }
+    }
+    @media screen and (min-width: 1166px) {
+        nav{
+            
+            background-color: #B9AFA8;
+            height:105px ;
+            overflow: hidden;
+        }
+        ul{
+            display: flex;
+            position: relative;
+            top: 15px;
+            list-style-type: none;
+            left: -57px;
+        }
+        .logo{
+            width: 63px;
+            height: auto;
+            position: relative;
+            left: 48%;
+            top: -55px;
+        }
+        a{
+            font-family: 'Poppins', sans-serif; 
+            color: #fff;
+            font-size: 26px;
+            margin: 66px;
+            text-decoration: none;
+        }
+        .nav2{
+            top: -125px !important;
+            left: 577px;
+        }
+        .p1{
+            position: relative;
+            top: 85px;
+            margin-top: 20px;
+            margin: 0;
+            left: 4.5%;
+            width: 91%;
+        }
+        .parte2{
+             position: relative;
+             margin-top: 20px;
+             width: 100%;
+             left: 0px;
+             top: 215px;
+             margin: 0;
+        }
+        .p2{
+            background-color: #B9AFA8;
+            height: 435px;
+            position: absolute;
+            top: 1114px;
+            z-index: -1;
+            width: 91%;
+            left: 0px;
+        }
+        .part2{
+            margin-top: 248px;
+            
+        }
+        .p21{
+            width: 435px;
+            height: auto;
+            position: relative;
+            left: 73px;
+            top: -189px;
+        }
+        .p22{
+            position: relative;
+            left: 99px;
+            top: -338px;
+        }
+        .p23{
+            font-family: 'Poppins', sans-serif;
+            font-weight: 700;
+            font-size: 72px;
+            position: relative;
+            left: 559px;
+            top: -11px;
+            color: #B9AFA8;
+            width: 200px;
+        }
+        
+        .p31{
+            position: absolute;
+            top: 1579px;
+            left: 4.5%;
+            width: 91%;
+            margin: 0;
+        }
+        button{
+            width: 15%;
+            height: 42px;
+            background-color: white;
+            border-style: none;
+            color: #B9AFA8;
+            font-family: 'Poppins', sans-serif;
+            font-size: 21px;
+            font-weight: 400;
+        }
+        
+        .bt1{
+            position: relative;
+            top: 1199px;
+            left: 146px;
+            margin: 0;
+        }
+        .bt2{
+            position: relative;
+            top: 1199px;
+            left: 507px;
+            margin: 0;
+        }
+        .bt3{
+            position: relative;
+            top: 2071px;
+            left: -19%;
+            margin: 0;
+        }
+        .bt4{
+            position: relative;
+            top: 2071px;
+            left: 121px;
+            margin: 0;
+        }
+        .bt5{
+            position: relative;
+            top: 2940px;
+            left: -50%;
+        
+            margin: 0;
+        }
+        .bt6{
+            position: relative;
+            top: 2940px;
+            left: -20%;
+            margin: 0;
+        }
+        .fot{width: 100%;
+           position: absolute;
+            top: 4420px;
+            left: 0px;
+            z-index: -1;
+        }
+        .eee{
+            background-color: teal;
+            height: 1000px;
+        }
+        .piu{
+            margin: 0;
+            font-size: 0;
+        }
+        .link{
+            display: flex;
+            position: relative;
+            top: 3204px;
+            left: 10%;
+            width: 908px;
+            
+        }
+        .fot21 .fot22 .fot23{
+            position: relative;
+            margin: 80px;
+        }
+        }
 @media screen and (min-width: 1266px) {
         nav{
             
@@ -464,6 +653,17 @@ a:hover{
         .piu{
             margin: 0;
             font-size: 0;
+        }
+        .link{
+            display: flex;
+            position: relative;
+            top: 3284px;
+            left: 157px;
+            width: 908px;
+        }
+        .fot21 .fot22 .fot23{
+            position: relative;
+            margin: 80px;
         }
         }    
 @media screen and (min-width: 1366px) {
@@ -617,6 +817,17 @@ button{
 .piu{
     margin: 0;
     font-size: 0;
+}
+.link{
+    display: flex;
+    position: relative;
+    top: 3620px;
+    left: 177px;
+    width: 908px;
+}
+.fot21 .fot22 .fot23{
+    position: relative;
+    margin: 80px;
 }
 }
 
