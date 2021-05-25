@@ -2,6 +2,9 @@ button:hover{
     background-color: #B4A5A2;
     color: black;
 }
+a:hover{
+    color: brown;
+}
 @media screen and (max-width: 1166px) {
     nav{
         
