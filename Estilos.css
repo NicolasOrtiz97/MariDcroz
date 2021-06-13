@@ -1036,7 +1036,7 @@ a:hover{
     }
     .nav2{
         top: -107px !important;
-        left: 775px;
+        left: 862px;
     }
     .p1{
         position: relative;
@@ -1289,13 +1289,13 @@ a:hover{
     
     .p31{
         position: absolute;
-        top: 2257px;
+        top: 2023px;
         left: 4.5%;
         width: 91%;
         margin: 0;
     }
     button{
-        width: 16%;
+        width: 13%;
         height: 45px;
         background-color: white;
         border-style: none;
@@ -1307,37 +1307,37 @@ a:hover{
     
     .bt1{
         position: relative;
-        top: 1724px;
-        left: 235px; 
+        top: 1525px;
+        left: 228px; 
         margin: 0;
     }
     .bt2{
         position: relative;
-        top: 1724px;
+        top: 1525px;
         left: 765px; 
         margin: 0;
     }
     .bt3{
         position: relative;
-        top: 3067px;
+        top: 1525px;
         left: -391px;
         margin: 0;
     }
     .bt4{
         position: relative;
-        top: 3067px;
-        left: 145px;
+        top: 2558px;
+        left: -553px;
         margin: 0;
     }
     .bt5{
         position: relative;
-        top: 4425px;
+        top: 2558px;
         left: -1002px;
         margin: 0;
     }
     .bt6{
         position: relative;
-        top: 4425px;
+        top: 2558px;
         left: -463px;
         margin: 0;
     }
