@@ -169,6 +169,42 @@ a:hover{
         position: relative;
         margin: 80px;
     }
+    .links{
+        position: relative;
+        top: 1913px;
+        left: 57px;
+        width: 800px;
+    }
+
+    .ma {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .tma{
+        position: relative;
+        top: -6px;
+        font-size: 16px;
+    }
+    .be {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .wap {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .loc {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .erre{
+        display: flex;
+        margin: 15px;
+    }
     }
 
 @media screen and (min-width: 1166px) {
@@ -335,6 +371,42 @@ a:hover{
         margin: 80px;
         width: 150px;
     }
+    .links{
+        position: relative;
+        top: 1913px;
+        left: 57px;
+        width: 800px;
+    }
+
+    .ma {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .tma{
+        position: relative;
+        top: -6px;
+        font-size: 16px;
+    }
+    .be {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .wap {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .loc {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .erre{
+        display: flex;
+        margin: 15px;
+    }
         }
 @media screen and (min-width: 1250px) {
     nav{
@@ -499,6 +571,42 @@ a:hover{
         position: relative;
         margin: 80px;
         width: 150px;
+    }
+    .links{
+        position: relative;
+        top: 2034px;
+        left: 57px;
+        width: 800px;
+    }
+
+    .ma {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .tma{
+        position: relative;
+        top: -6px;
+        font-size: 16px;
+    }
+    .be {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .wap {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .loc {
+        width: auto;
+        height: 45px;
+        margin-right:  33px;
+    }
+    .erre{
+        display: flex;
+        margin: 15px;
     }
             }
 @media screen and (min-width: 1266px) {
@@ -665,6 +773,41 @@ a:hover{
             margin: 80px;
             width: 150px;
         }
+        .links{
+            position: relative;
+            top: 1994px;
+            left: 57px;
+            width: 800px;
+        }
+    
+        .ma {
+            width: auto;
+            height: 55px;
+            margin-right:  33px;
+        }
+        .tma{
+            position: relative;
+            top: -11px;
+        }
+        .be {
+            width: auto;
+            height: 55px;
+            margin-right:  33px;
+        }
+        .wap {
+            width: auto;
+            height: 55px;
+            margin-right:  33px;
+        }
+        .loc {
+            width: auto;
+            height: 55px;
+            margin-right:  33px;
+        }
+        .erre{
+            display: flex;
+            margin: 15px;
+        }
         }    
 @media screen and (min-width: 1366px) {
     nav{
@@ -820,15 +963,47 @@ a:hover{
     }
     .link{
         display: flex;
-        position: relative;
-        top: 3284px;
-        left: 157px;
-        width: 908px;
+        
     }
     .fot21 {
         position: relative;
         margin: 80px;
         width: 150px;
+    }
+    .links{
+        position: relative;
+        top: 2149px;
+        left: 57px;
+        width: 800px;
+    }
+
+    .ma {
+        width: auto;
+        height: 55px;
+        margin-right:  33px;
+    }
+    .tma{
+        position: relative;
+        top: -11px;
+    }
+    .be {
+        width: auto;
+        height: 55px;
+        margin-right:  33px;
+    }
+    .wap {
+        width: auto;
+        height: 55px;
+        margin-right:  33px;
+    }
+    .loc {
+        width: auto;
+        height: 55px;
+        margin-right:  33px;
+    }
+    .erre{
+        display: flex;
+        margin: 15px;
     }
 }
 @media screen and (min-width: 1920px) {
