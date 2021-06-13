@@ -1307,19 +1307,19 @@ a:hover{
     
     .bt1{
         position: relative;
-        top: 1525px;
+        top: 1505px;
         left: 228px; 
         margin: 0;
     }
     .bt2{
         position: relative;
-        top: 1525px;
+        top: 1505px;
         left: 483px; 
         margin: 0;
     }
     .bt3{
         position: relative;
-        top: 1525px;
+        top: 1505px;
         left: 743px;
         margin: 0;
     }
@@ -1371,6 +1371,35 @@ a:hover{
         top: 3125px;
         left: 73px;
         width: 800px;
+    }
+    .ma {
+        width: auto;
+        height: 88px;
+        margin-right:  33px;
+    }
+    .tma{
+        position: relative;
+        top: 2px;
+        font-size: 25px;
+    }
+    .be {
+        width: auto;
+        height: 88px;
+        margin-right:  33px;
+    }
+    .wap {
+        width: auto;
+        height: 88px;
+        margin-right:  33px;
+    }
+    .loc {
+        width: auto;
+        height: 88px;
+        margin-right:  33px;
+    }
+    .erre{
+        display: flex;
+        margin: 35px;
     }
     }
    
