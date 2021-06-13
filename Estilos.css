@@ -1314,13 +1314,13 @@ a:hover{
     .bt2{
         position: relative;
         top: 1525px;
-        left: 765px; 
+        left: 483px; 
         margin: 0;
     }
     .bt3{
         position: relative;
         top: 1525px;
-        left: -391px;
+        left: 743px;
         margin: 0;
     }
     .bt4{
@@ -1332,18 +1332,18 @@ a:hover{
     .bt5{
         position: relative;
         top: 2558px;
-        left: -1002px;
+        left: -282px;
         margin: 0;
     }
     .bt6{
         position: relative;
         top: 2558px;
-        left: -463px;
+        left: -10px;
         margin: 0;
     }
     .fot{width: 100%;
        position: absolute;
-        top: 6671px;
+        top: 4622px;
         left: 0px;
         z-index: -1;
     }
@@ -1365,6 +1365,12 @@ a:hover{
     .fot21 .fot22 .fot23{
         position: relative;
         margin: 80px;
+    }
+    .links{
+        position: relative;
+        top: 3125px;
+        left: 73px;
+        width: 800px;
     }
     }
    
